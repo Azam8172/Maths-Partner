@@ -1,1 +1,1 @@
-# Maths-Partner
+# html-css-js-project-boilerplate
